@@ -1,2 +1,1 @@
-# ISTQB_PracticalTesting1
-For HT on ISTQB_PracticalTestingCourse
+Use Case Diagram WORK.ua
