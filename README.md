@@ -1,2 +1,2 @@
-# ISTQB_PracticalTeasing1
-For HT on ISTQB_PracticalTeasingCourse
+# ISTQB_PracticalTesting1
+For HT on ISTQB_PracticalTestingCourse
