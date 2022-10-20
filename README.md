@@ -1,1 +1,1 @@
-Use Case Diagram WORK.ua
+Use Case Diagrama WORK.ua
