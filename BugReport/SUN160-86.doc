@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SUN160-86] The default value of the drop-down list should be ‘First Name’ in the search criteria in the Administration tab </title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.softserve.academy/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SUN160-86]&nbsp;<a href="https://jira.softserve.academy/browse/SUN160-86">The default value of the drop-down list should be ‘First Name’ in the search criteria in the Administration tab </a>
+            <span class="subText">
+               Created: 01/Dec/22                   &nbsp;Updated: 04/Dec/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Open</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.softserve.academy/secure/BrowseProject.jspa?id=51660">CH-160.ISTQB</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+            <tr>
+            <td><b>Security Level:</b></td>
+            <td>
+                All
+                            </td>
+       </tr>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Defect
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="sinelnik.e" id="word_reporter_sinelnik.e" href="https://jira.softserve.academy/secure/ViewProfile.jspa?name=sinelnik.e">Yevgen Synelnyk</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-1791610-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Environment:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Windows 10 Pro 64-bit operating system, x64-based processor<br/>
+Google Chrome Version 107.0.5304.122 (Official Build) (64-bit)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.softserve.academy/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    Default_value_search_criteria.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue Links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Account-Project</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                Belongs to account
+            </td>
+            <td>
+                <a href="https://jira.softserve.academy/browse/SUN160-58">
+                     SUN160-58                 </a>
+            </td>
+            <td>
+                Verify the functionality of users&#39; se...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Defect Type:</b></td>
+                <td id="customfield_10084-1791610-value" class="value" bgcolor="#ffffff" width="80%">    Unknown
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Severity:</b></td>
+                <td id="customfield_10086-1791610-value" class="value" bgcolor="#ffffff" width="80%">    Trivial
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Reproducible:</b></td>
+                <td id="customfield_10088-1791610-value" class="value" bgcolor="#ffffff" width="80%">    Always
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Date Entered:</b></td>
+                <td id="customfield_10040-1791610-value" class="value" bgcolor="#ffffff" width="80%">          <span title="01/Dec/22"><time datetime="2022-12-01">01/Dec/22</time></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_11130-1791610-value" class="value" bgcolor="#ffffff" width="80%">!Template Sprint 2</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p> </p>
+
+<p><b>Precondition:</b></p>
+<ol>
+	<li>Log into OMS as Administrator#. 'User'="iva", 'Password'="qwerty"</li>
+	<li>Verify that user "Ivanka" with "Admin" role exists in OMS DB.</li>
+	<li>Run the script on OMS DB: SELECT * FROM Users. Remember the <span class="error">&#91;total amount of users&#93;</span>.</li>
+</ol>
+
+
+<p><b>Steps to reproduce:</b></p>
+<ol>
+	<li>Click on the 'Administration' tab     </li>
+	<li>Verify that the ‘Select Field’ filter drop-down list contains ‘First Name’ as the default value</li>
+</ol>
+
+
+<p><b>Expected result:</b></p>
+
+<p>‘First Name’ is the default value in the ‘Select Field’ filter drop-down list</p>
+
+<p><b>Actual result</b>: </p>
+
+<p>The default value of the drop-down list in the search criteria is 'All Columns' and does not match the requirements of the search criteria in the Administration tab    <span class="nobr"><a href="https://jira.softserve.academy/secure/attachment/415975/415975_Default_value_search_criteria.png" title="Default_value_search_criteria.png attached to SUN160-86">Default_value_search_criteria.png<sup><img class="rendericon" src="https://jira.softserve.academy/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Sat Jan 07 17:56:14 EET 2023 by Yevgen Synelnyk using JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88.
+
+</body>
+</html>
